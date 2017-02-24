@@ -1,0 +1,15 @@
+const unsigned char txt_credits_1 [] = "DESIGN";
+const unsigned char txt_credits_2 [] = "ANJUEL";
+const unsigned char txt_credits_15 [] = "GAME CODE";
+const unsigned char txt_credits_3 [] = "VOSTOK ENGINE";
+const unsigned char txt_credits_4 [] = "NA-TH-AN";
+const unsigned char txt_credits_5 [] = "GRAPHICS";
+const unsigned char txt_credits_6 [] = "MUSIC";
+const unsigned char txt_credits_7 [] = "SOUND FX";
+const unsigned char txt_credits_8 [] = "SHIRU";
+const unsigned char txt_credits_9 [] = "NESLIB";
+const unsigned char txt_credits_10 [] = "TESTING";
+const unsigned char txt_credits_11 [] = "DAVIDIAN";
+const unsigned char txt_credits_12 [] = "METR";
+const unsigned char txt_credits_14 [] = "ALEJANDROEMS";
+const unsigned char txt_credits_13 [] = "NEIL PARSONS";
